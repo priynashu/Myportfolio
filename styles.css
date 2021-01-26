@@ -80,7 +80,7 @@ html{
 /* home section */
 .home{
 display: flex;
-background: url("images/Profile4.JPG") center;
+background: url("images/Profile4.jpg") center;
 background-size: cover;
 color: #fff;
 height: 100vh;
@@ -195,7 +195,7 @@ section .title::after{
   pointer-events: none;
   transition: all 0.3s ease;
   cursor: pointer;
-  
+
 }
 .scroll-up-btn.show{
   opacity: 1;
